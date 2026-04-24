@@ -60,6 +60,10 @@ Average ARPU by group:
 
 A histogram was used to compare the distribution of ARPU between groups.
 
+### ARPU Distribution by Plan Type
+
+![ARPU Distribution](notebooks/arpu_distribution.png)
+
 ### Key observations:
 
 - Premium customers are concentrated at higher ARPU values  
