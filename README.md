@@ -1,3 +1,6 @@
+[![Back to Portfolio](https://img.shields.io/badge/←_Back_to_Portfolio-0A66C2?style=for-the-badge&logo=github&logoColor=white)](../../README.md)
+
+
 # 📊 Telecom Revenue Analysis (T-Test)
 
 ## 🎯 Business Problem
